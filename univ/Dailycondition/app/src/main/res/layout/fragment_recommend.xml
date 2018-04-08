@@ -1,0 +1,29 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    android:paddingBottom="30dp"
+    tools:context="com.example.seunghyeonpark.dailycondition.Fragment.RecommendFragment"
+    android:orientation="vertical">
+
+
+    <ImageView
+        android:id="@+id/motion"
+        android:layout_marginStart="40dp"
+        android:layout_marginTop="40dp"
+        android:layout_width="250dp"
+        android:layout_height="250dp" />
+
+
+    <ImageView
+        android:id="@+id/manswer"
+        android:layout_marginStart="30dp"
+        android:layout_marginTop="30dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+
+
+</LinearLayout>

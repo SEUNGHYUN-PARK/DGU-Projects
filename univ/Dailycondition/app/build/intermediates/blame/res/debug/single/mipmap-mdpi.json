@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/SeungHyeonPark/Desktop/Dailycondition/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/Users/SeungHyeonPark/Desktop/Dailycondition/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/SeungHyeonPark/AndroidStudioProjects/Dailycondition/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/Users/SeungHyeonPark/AndroidStudioProjects/Dailycondition/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    }
+]

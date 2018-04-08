@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/SeungHyeonPark/Downloads/DGBookProject/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="1e14ebe1cda8491f152083e752ca5bf73cd37bff">
+        <dex dex="/Users/SeungHyeonPark/Downloads/DGBookProject/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-iid-9.6.1_2d08522c88b639b7672fa395d5b6aa123cbd1600.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/SeungHyeonPark/Downloads/DGBookProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4a36600281a648769411ef642c331851732bf29e">
+        <dex dex="/Users/SeungHyeonPark/Downloads/DGBookProject/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-9.6.1_e1478e3ec4db36c3e74a68685b11d75bf91d9f93.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/SeungHyeonPark/Downloads/DGBookProject/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/Users/SeungHyeonPark/Downloads/DGBookProject/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.2.1_605cc46b1e92aff3b6429e0162a26346e08b2a59.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/SeungHyeonPark/Downloads/DGBookProject/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/SeungHyeonPark/Downloads/DGBookProject/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_34907c36caf05ddc3f16d6c313bd00ce3a8579dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/SeungHyeonPark/Downloads/DGBookProject/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/SeungHyeonPark/Downloads/DGBookProject/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_f3afacbb3eabf3453f53a58bd1d2d48fe0484c25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/SeungHyeonPark/Downloads/DGBookProject/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="77558e74bb2056ef38516296f13a27c4c4fc3e5c">
+        <dex dex="/Users/SeungHyeonPark/Downloads/DGBookProject/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-common-9.6.1_5ef189837c23d50cffefda7a556849ab1bdea56b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/SeungHyeonPark/Downloads/DGBookProject/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/SeungHyeonPark/Downloads/DGBookProject/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_3fb9247c976aa50441ad4edd5c465cf427d770f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/SeungHyeonPark/Downloads/DGBookProject/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6ffe8b28ab61e5ee92ab9431a220379790c71ddf">
+        <dex dex="/Users/SeungHyeonPark/Downloads/DGBookProject/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-module-9.6.1_9a0bf0bb1d18a59a4cf1e7f14c29f43b722e9b9b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/SeungHyeonPark/Downloads/DGBookProject/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/SeungHyeonPark/Downloads/DGBookProject/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_00b7e4ee17ed38b11f0376b9cdda390522ade54e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/SeungHyeonPark/Downloads/DGBookProject/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0efd1b44f47c134fb245914a1d54a55adbfc2f8d">
+        <dex dex="/Users/SeungHyeonPark/Downloads/DGBookProject/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-impl-9.6.1_f8924080c2ae1811f5b411083510488c113fd933.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/SeungHyeonPark/Downloads/DGBookProject/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/SeungHyeonPark/Downloads/DGBookProject/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_70188425d8a0b43443e1839842ea4e2ec4ca1386.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/SeungHyeonPark/.gradle/caches/modules-2/files-2.1/org.jsoup/jsoup/1.10.1/645f1ad2f6f4cbad1cde4c483eae71e4051be6ef/jsoup-1.10.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="645f1ad2f6f4cbad1cde4c483eae71e4051be6ef">
+        <dex dex="/Users/SeungHyeonPark/Downloads/DGBookProject/app/build/intermediates/pre-dexed/debug/jsoup-1.10.1_001d44d62849ca06f1a5a0e2d9802a0e4eb8c1d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/SeungHyeonPark/Downloads/DGBookProject/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/SeungHyeonPark/Downloads/DGBookProject/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_3b8e43eac11d30fdba6bb2b5d34b523fe87ce202.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/SeungHyeonPark/Downloads/DGBookProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="eccaaa9ffa6bb4bfbd2e870f01aaf69655d353be">
+        <dex dex="/Users/SeungHyeonPark/Downloads/DGBookProject/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-9.6.1_030055baf4130374f3a0efc134454cfc51a69587.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/SeungHyeonPark/Downloads/DGBookProject/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a1c351dc10b92d638da57f3a6513f87cfbdc9f83">
+        <dex dex="/Users/SeungHyeonPark/Downloads/DGBookProject/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-9.6.1_c56b5f1caee7539334770f0958d33ad107c6adc3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/SeungHyeonPark/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/SeungHyeonPark/Downloads/DGBookProject/app/build/intermediates/pre-dexed/debug/library-2.4.0_80eff2249ac9a856f6c99c01744acd8e4cdf9f5d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/SeungHyeonPark/Downloads/DGBookProject/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2a18547ea91d258866d132c2a763185f15b01b25">
+        <dex dex="/Users/SeungHyeonPark/Downloads/DGBookProject/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-9.6.1_5b4725f7a9321c58c5b5d99a495a357a9653ceaf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/SeungHyeonPark/Downloads/DGBookProject/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/SeungHyeonPark/Downloads/DGBookProject/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_6969edc0557fd35c4aba5099386fdc00ac3c6b9c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/SeungHyeonPark/Downloads/DGBookProject/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/SeungHyeonPark/Downloads/DGBookProject/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_413c45b1b378ea06c2de5f3cde2668406269717f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/SeungHyeonPark/Downloads/DGBookProject/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/SeungHyeonPark/Downloads/DGBookProject/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_01c25ec80b6eb09e83b8add77f8d4bc1d50e9b03.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/SeungHyeonPark/Downloads/DGBookProject/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/SeungHyeonPark/Downloads/DGBookProject/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_b745e90bb40250cc371f082edcf77f1533738fde.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/SeungHyeonPark/Downloads/DGBookProject/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/SeungHyeonPark/Downloads/DGBookProject/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_3820d7e454aa19f250ef5e05ecc5333e84bc762b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/SeungHyeonPark/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/SeungHyeonPark/Downloads/DGBookProject/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_271fdafad79f617ee7988784a96f8877f32018ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/SeungHyeonPark/Downloads/DGBookProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="af7582c6b327449c6d32518e6a10307860b7b5d6">
+        <dex dex="/Users/SeungHyeonPark/Downloads/DGBookProject/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-9.6.1_aa2ce128ade862df5c39013c48160196ec904d3a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/SeungHyeonPark/Downloads/DGBookProject/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/SeungHyeonPark/Downloads/DGBookProject/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_1274465badb5b0dc409babae60de5394d95e6a20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/SeungHyeonPark/Downloads/DGBookProject/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="1ef72e72bc0d05602c366582afa9439f58bb31d6">
+        <dex dex="/Users/SeungHyeonPark/Downloads/DGBookProject/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-9.6.1_15fff7fa8be1edb0e4848b0eab7b0c2793ef885f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/SeungHyeonPark/Downloads/DGBookProject/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/SeungHyeonPark/Downloads/DGBookProject/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_90be6c9d3860d2d5dda432bfcda18962340388a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/SeungHyeonPark/Downloads/DGBookProject/app/build/intermediates/exploded-aar/me.relex/circleindicator/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b1c8be29c0a73bc8806c5d243576134f397c4aaa">
+        <dex dex="/Users/SeungHyeonPark/Downloads/DGBookProject/app/build/intermediates/pre-dexed/debug/me.relex-circleindicator-1.0.0_775eafd232d651f32d29af7114547470ea103824.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/SeungHyeonPark/Downloads/DGBookProject/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/SeungHyeonPark/Downloads/DGBookProject/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_70105aa81418f3928fa7169a2faae18294b00d86.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/SeungHyeonPark/Downloads/DGBookProject/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/Users/SeungHyeonPark/Downloads/DGBookProject/app/build/intermediates/pre-dexed/debug/com.android.support-design-24.2.1_3b0c1915c2751b44b944fbcb44c514d32dfd3bbf.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Dailycondition</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="_12">12</string>
+
+
+    <string-array name="Age">
+        <item>0~10</item>
+        <item>11~20</item>
+        <item>21~30</item>
+        <item>31~40</item>
+        <item>41~50</item>
+        <item>51~60</item>
+        <item>61~70</item>
+        <item>71~80</item>
+    </string-array>
+    <string-array name="Height">
+        <item>149이하</item>
+        <item>150~159</item>
+        <item>160~169</item>
+        <item>170~179</item>
+        <item>180~189</item>
+        <item>190~199</item>
+        <item>200이상</item>
+    </string-array>
+    <string-array name="Weight">
+        <item id="0">39이하</item>
+        <item id="1">40~49</item>
+        <item id="2">50~59</item>
+        <item id="3">60~69</item>
+        <item id="4">70~79</item>
+        <item id="5">80~89</item>
+        <item id="6">90~99</item>
+        <item id="7">100이상</item>
+    </string-array>
+    <string-array name="Drink">
+        <item id="0">0(안마심)</item>
+        <item id="1">1병이하</item>
+        <item id="2">1병~2병</item>
+        <item id="3">2병~3병</item>
+        <item id="4">3병~4병</item>
+        <item id="5">4병~5병</item>
+        <item id="6">5병~6병</item>
+        <item id="7">6병이상</item>
+    </string-array>
+    <string-array name="Smoke">
+        <item id="0">0(비흡연)</item>
+        <item id="1">1갑이하</item>
+        <item id="2">1갑~2갑</item>
+        <item id="3">2갑~3갑</item>
+        <item id="4">3갑이상</item>
+    </string-array>
+
+
+</resources>

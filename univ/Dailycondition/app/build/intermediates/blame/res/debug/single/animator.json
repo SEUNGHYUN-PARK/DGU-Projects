@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/SeungHyeonPark/Desktop/Dailycondition/app/build/intermediates/res/merged/debug/animator/scale_with_alpha.xml",
+        "source": "/Users/SeungHyeonPark/Desktop/Dailycondition/app/build/intermediates/exploded-aar/me.relex/circleindicator/1.0.0/res/animator/scale_with_alpha.xml"
+    },
+    {
+        "merged": "/Users/SeungHyeonPark/AndroidStudioProjects/Dailycondition/app/build/intermediates/res/merged/debug/animator/scale_with_alpha.xml",
+        "source": "/Users/SeungHyeonPark/AndroidStudioProjects/Dailycondition/app/build/intermediates/exploded-aar/me.relex/circleindicator/1.0.0/res/animator/scale_with_alpha.xml"
+    }
+]

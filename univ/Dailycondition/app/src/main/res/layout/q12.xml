@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/survey12"
+    android:id="@+id/q12">
+    <RadioGroup
+        android:id="@+id/rg12"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:checked="false"
+        android:layout_marginTop="235dp"
+        android:layout_marginLeft="13dp">
+
+        <RadioButton
+            android:id="@+id/ans12_1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            />
+
+        <RadioButton
+            android:id="@+id/ans12_2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            />
+
+        <RadioButton
+            android:id="@+id/ans12_3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            />
+
+        <RadioButton
+            android:id="@+id/ans12_4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            />
+    </RadioGroup>
+</LinearLayout>

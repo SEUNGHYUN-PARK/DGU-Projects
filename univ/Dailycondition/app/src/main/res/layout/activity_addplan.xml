@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:weightSum="1">
+
+
+    <android.support.v7.widget.Toolbar
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#006666"
+        android:theme="@style/Base.ThemeOverlay.AppCompat.Dark"
+        android:minHeight="?attr/actionBarSize"
+        android:id="@+id/toolbar" />
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="126dp"></LinearLayout>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20dp">
+
+        <TextView
+            android:text="예정 날짜"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"
+            android:textColor="@color/colorPrimary"
+            android:id="@+id/textView"
+            android:layout_marginLeft="30dp" />
+
+        <TextView
+            android:hint="클릭해서 날짜 지정"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/txtDate"
+            android:textSize="20dp"
+            android:layout_weight="1"
+            android:layout_marginLeft="30dp"
+            android:paddingTop="20dp" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20dp">
+
+        <TextView
+            android:text="예정 시간"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView2"
+            android:textColor="@color/colorPrimary"
+            android:textSize="20dp"
+            android:layout_marginLeft="30dp" />
+
+        <TextView
+            android:hint="클릭해서 시간 지정"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/txtTime"
+            android:textSize="20dp"
+            android:layout_weight="1"
+            android:layout_marginLeft="30dp"
+            android:paddingTop="20dp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:text="예정 일정"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView6"
+            android:textColor="@color/colorPrimary"
+            android:textSize="20dp"
+            android:layout_marginLeft="30dp" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:inputType="textPersonName"
+            android:hint="메모사항을 입력해주세요"
+            android:ems="10"
+            android:layout_marginLeft="30dp"
+            android:id="@+id/editText"
+            android:gravity="top"
+            android:paddingTop="20dp"
+             />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="right"
+        android:gravity="right"
+        android:layout_marginTop="30dp">
+
+        <Button
+            android:text="일정 등록하기"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/enroll"
+            android:layout_gravity="right"
+            android:background="#00ff0000"
+            android:textSize="15dp"
+            android:layout_marginRight="80dp"/>
+    </LinearLayout>
+
+</LinearLayout>

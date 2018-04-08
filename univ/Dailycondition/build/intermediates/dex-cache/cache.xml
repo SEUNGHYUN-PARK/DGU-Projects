@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/SeungHyeonPark/AndroidStudioProjects/Dailycondition/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/Users/SeungHyeonPark/AndroidStudioProjects/Dailycondition/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.0_42cd0682e0f74a855e3f7d6c45907d9fdf0429c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/SeungHyeonPark/Desktop/Dailycondition/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="/Users/SeungHyeonPark/Desktop/Dailycondition/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.0.0_d17fbccb39c35552b684894d6037fce64dcb998d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/SeungHyeonPark/AndroidStudioProjects/Dailycondition/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="/Users/SeungHyeonPark/AndroidStudioProjects/Dailycondition/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.0.0_9e6ae191bd00ebfdda8121c232b3f28b6e722b4c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/SeungHyeonPark/Desktop/Dailycondition/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/Users/SeungHyeonPark/Desktop/Dailycondition/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_f32a2a034bb31063461d78be8c03b3e29a9d819e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/SeungHyeonPark/AndroidStudioProjects/Dailycondition/app/build/intermediates/exploded-aar/com.viewpagerindicator/library/2.4.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="88e8e18d365173ad04a543d76c157e0b644f0b3f">
+        <dex dex="/Users/SeungHyeonPark/AndroidStudioProjects/Dailycondition/app/build/intermediates/pre-dexed/debug/com.viewpagerindicator-library-2.4.1_0a0416af94bff611327a1d9e529614acd277262f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/SeungHyeonPark/Desktop/Dailycondition/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/SeungHyeonPark/Desktop/Dailycondition/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_048257ebee191be4df74d1a4c4bdeb672f9256ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/SeungHyeonPark/AndroidStudioProjects/Dailycondition/app/build/intermediates/exploded-aar/com.viewpagerindicator/library/2.4.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="88e8e18d365173ad04a543d76c157e0b644f0b3f">
+        <dex dex="/Users/SeungHyeonPark/AndroidStudioProjects/Dailycondition/app/build/intermediates/pre-dexed/debug/com.viewpagerindicator-library-2.4.1_0a0416af94bff611327a1d9e529614acd277262f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/SeungHyeonPark/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/SeungHyeonPark/AndroidStudioProjects/Dailycondition/app/build/intermediates/pre-dexed/debug/library-2.4.0_80eff2249ac9a856f6c99c01744acd8e4cdf9f5d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/SeungHyeonPark/AndroidStudioProjects/Dailycondition/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/Users/SeungHyeonPark/AndroidStudioProjects/Dailycondition/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_3182ae9a455193b87b31b4a909b67e6b54baa19c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/SeungHyeonPark/Desktop/Dailycondition/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/Users/SeungHyeonPark/Desktop/Dailycondition/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.0_740af7c486bce44a78bd704c13810a2241f74193.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/SeungHyeonPark/AndroidStudioProjects/Dailycondition/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/Users/SeungHyeonPark/AndroidStudioProjects/Dailycondition/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.0_a0a61563b2690d576d45f5b45418705bab236e09.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/SeungHyeonPark/Desktop/Dailycondition/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/Users/SeungHyeonPark/Desktop/Dailycondition/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_fea9f35128e7814b46c1665608530d066a8cce43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/SeungHyeonPark/Desktop/Dailycondition/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/Users/SeungHyeonPark/Desktop/Dailycondition/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.0_5e3a611daac78853f510cfa5521f4c8e94199a3f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/SeungHyeonPark/AndroidStudioProjects/Dailycondition/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/SeungHyeonPark/AndroidStudioProjects/Dailycondition/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_056eac7fedf9190b071b0959a94713aa2484d975.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/SeungHyeonPark/AndroidStudioProjects/Dailycondition/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/Users/SeungHyeonPark/AndroidStudioProjects/Dailycondition/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_87b0a68ba23725ca4e6dd55afe614ad8b590cc83.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/SeungHyeonPark/Desktop/Dailycondition/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/Users/SeungHyeonPark/Desktop/Dailycondition/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_08df78a03499a9718606bfd577f62f34297136c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/SeungHyeonPark/Desktop/Dailycondition/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/Users/SeungHyeonPark/Desktop/Dailycondition/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.0_a5ceda9caa73713ae28670c70ed5d196eefae1ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/SeungHyeonPark/AndroidStudioProjects/Dailycondition/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/Users/SeungHyeonPark/AndroidStudioProjects/Dailycondition/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.0_3c82a919b213757c4d736163f1de09c2e18fae3e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/SeungHyeonPark/AndroidStudioProjects/Dailycondition/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/Users/SeungHyeonPark/AndroidStudioProjects/Dailycondition/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.0_a731747d45b49237201a314f0fbc1dc85fc5882f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/SeungHyeonPark/AndroidStudioProjects/Dailycondition/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="/Users/SeungHyeonPark/AndroidStudioProjects/Dailycondition/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.0.0_bf30365c5da6defb573485d2419df76b59f4a33a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/SeungHyeonPark/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/SeungHyeonPark/AndroidStudioProjects/Dailycondition/app/build/intermediates/pre-dexed/debug/library-2.4.0_80eff2249ac9a856f6c99c01744acd8e4cdf9f5d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/SeungHyeonPark/Desktop/Dailycondition/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="/Users/SeungHyeonPark/Desktop/Dailycondition/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.0.0_fd56966f408f5bd1df5411b178b640cdecd678e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/SeungHyeonPark/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/Users/SeungHyeonPark/AndroidStudioProjects/Dailycondition/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.0_53318b050abe31ab379320baa87203b15aba25c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/SeungHyeonPark/Desktop/Dailycondition/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="/Users/SeungHyeonPark/Desktop/Dailycondition/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.0.0_7f167058fc2ebef098f95354e3088f45e756ef1c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/SeungHyeonPark/AndroidStudioProjects/Dailycondition/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/Users/SeungHyeonPark/AndroidStudioProjects/Dailycondition/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.0_4bd0fc2e4150fc9cc7b50034645fe185641e3c54.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/SeungHyeonPark/Desktop/Dailycondition/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/Users/SeungHyeonPark/Desktop/Dailycondition/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.0_64518a238b007888afa8948004715414e397c273.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/SeungHyeonPark/Desktop/Dailycondition/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/Users/SeungHyeonPark/Desktop/Dailycondition/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.0_bc839c62c8ef8cbc202755ee675c926bf81ea174.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/SeungHyeonPark/AndroidStudioProjects/Dailycondition/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/Users/SeungHyeonPark/AndroidStudioProjects/Dailycondition/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.0_e5f6a26aa3c5c6b63438b00384a0f6753ca5fd2b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/SeungHyeonPark/AndroidStudioProjects/Dailycondition/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/SeungHyeonPark/AndroidStudioProjects/Dailycondition/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.0_f4ba5e70a9234d0262a318efaa5d32f665868f98.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/SeungHyeonPark/Desktop/Dailycondition/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/SeungHyeonPark/Desktop/Dailycondition/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.0_eda3a0bd26db191545a69af9d531a2fa0726472e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/SeungHyeonPark/Desktop/Dailycondition/app/build/intermediates/exploded-aar/me.relex/circleindicator/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b1c8be29c0a73bc8806c5d243576134f397c4aaa">
+        <dex dex="/Users/SeungHyeonPark/Desktop/Dailycondition/app/build/intermediates/pre-dexed/debug/me.relex-circleindicator-1.0.0_de6797d823a1abf73effa65fc0374872af360613.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/SeungHyeonPark/Desktop/Dailycondition/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/Users/SeungHyeonPark/Desktop/Dailycondition/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.0_e212ddba6c07a6d720e22e7f37988df7694660a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/SeungHyeonPark/AndroidStudioProjects/Dailycondition/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/Users/SeungHyeonPark/AndroidStudioProjects/Dailycondition/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.0_bc665130c8659009e510b1d685676fad4b13cd1e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/SeungHyeonPark/Desktop/Dailycondition/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/Users/SeungHyeonPark/Desktop/Dailycondition/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_5de803470fc03f8448f40ff24d6ed91abe1f7717.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/SeungHyeonPark/AndroidStudioProjects/Dailycondition/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/Users/SeungHyeonPark/AndroidStudioProjects/Dailycondition/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_962f4eaee03d8661356aa71d3473ee7cee2d496a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/SeungHyeonPark/AndroidStudioProjects/Dailycondition/app/build/intermediates/exploded-aar/me.relex/circleindicator/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b1c8be29c0a73bc8806c5d243576134f397c4aaa">
+        <dex dex="/Users/SeungHyeonPark/AndroidStudioProjects/Dailycondition/app/build/intermediates/pre-dexed/debug/me.relex-circleindicator-1.0.0_1d4e73cd3fdcdc3b1ef1bda85dfdf8ecea6fd042.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/SeungHyeonPark/AndroidStudioProjects/Dailycondition/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/Users/SeungHyeonPark/AndroidStudioProjects/Dailycondition/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_51d57aad37acddddce2db560cd80dcb00b7bc3fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/SeungHyeonPark/AndroidStudioProjects/Dailycondition/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="/Users/SeungHyeonPark/AndroidStudioProjects/Dailycondition/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.0.0_03eccf28a470f342b55c6cfabb9e9d9406d991f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/SeungHyeonPark/Desktop/Dailycondition/app/build/intermediates/exploded-aar/com.viewpagerindicator/library/2.4.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="88e8e18d365173ad04a543d76c157e0b644f0b3f">
+        <dex dex="/Users/SeungHyeonPark/Desktop/Dailycondition/app/build/intermediates/pre-dexed/debug/com.viewpagerindicator-library-2.4.1_81fde118efe2b0c02b3c5dca98f46a511ad2ab73.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/SeungHyeonPark/AndroidStudioProjects/Dailycondition/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/Users/SeungHyeonPark/AndroidStudioProjects/Dailycondition/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.0_91bf06e72b569f224ff80805d95e41f59022d76a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/SeungHyeonPark/Desktop/Dailycondition/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/Users/SeungHyeonPark/Desktop/Dailycondition/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.0_a46d538ce24e37252d410504808bdaa3b5678c04.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/SeungHyeonPark/Desktop/Dailycondition/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/Users/SeungHyeonPark/Desktop/Dailycondition/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.0_7853f03abd1d3cc41733dca38e3e62e06eebb36b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/SeungHyeonPark/AndroidStudioProjects/Dailycondition/app/build/intermediates/exploded-aar/me.relex/circleindicator/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="b1c8be29c0a73bc8806c5d243576134f397c4aaa">
+        <dex dex="/Users/SeungHyeonPark/AndroidStudioProjects/Dailycondition/app/build/intermediates/pre-dexed/debug/me.relex-circleindicator-1.0.0_1d4e73cd3fdcdc3b1ef1bda85dfdf8ecea6fd042.jar" />
+    </item>
+
+</items>

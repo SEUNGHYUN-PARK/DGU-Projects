@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent" android:layout_height="wrap_content"
+    android:id = "@+id/relFeed_list"
+    android:background="@drawable/roundcornor"
+    >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="210dp"
+        android:background = "@drawable/recycle_feed"
+        android:id="@+id/feed_layout"
+
+        >
+    <TextView
+        android:text="TextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/date_of_feed"
+        android:layout_marginStart="50dp"
+        android:layout_marginTop="26dp"
+        />
+
+    <TextView
+        android:text="65%"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/condition_percent"
+        android:textSize = "18dp"
+        android:layout_marginTop="50dp"
+        android:layout_toEndOf="@+id/comment_conditon"
+        android:layout_marginStart="5dp"
+        />
+
+    <TextView
+        android:text="KIM DONGHYUN"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize = "17dp"
+        android:id="@+id/user_name"
+        android:layout_marginStart="50dp"
+        android:textStyle="bold"
+        android:layout_marginTop="6dp"
+        android:textColor = "#015091"
+        />
+        <TextView
+            android:text="당신의 컨디션은 약 "
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize = "17dp"
+            android:textColor = "#9c9d9e"
+            android:id="@+id/comment_conditon"
+            android:layout_marginStart="5dp"
+            android:layout_alignBaseline="@+id/condition_percent"
+            />
+
+        <ImageView
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_marginStart="5dp"
+            android:layout_marginTop="5dp"
+            app:srcCompat="@drawable/defaultimage"
+            android:id="@+id/imageView"
+            />
+
+        <TextView
+            android:layout_width="180dp"
+            android:layout_height="5dp"
+            android:layout_marginTop="85dp"
+            android:layout_marginStart="5dp"
+            android:background = "@drawable/border"
+            android:id="@+id/total_per" />
+        <TextView
+            android:layout_width="150dp"
+            android:layout_height="5dp"
+            android:layout_marginTop="85dp"
+            android:layout_marginStart="5dp"
+            android:background = "#a62233e6"
+            android:id="@+id/percent" />
+
+        <TextView
+            android:text="TextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart = "5dp"
+            android:layout_marginTop="170dp"
+            android:textSize = "18dp"
+            android:id="@+id/ScheduleInfo" />
+
+        <TextView
+            android:text="오늘은 컨디션이 매우 좋은날이네요!"
+            android:textSize = "20dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="100dp"
+            android:layout_marginStart= "5dp"
+            android:id="@+id/Expression" />
+
+        <TextView
+            android:text="TextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/Expression"
+            android:textSize = "15dp"
+            android:layout_marginStart = "5dp"
+            android:layout_marginTop="5dp"
+            android:id="@+id/recommend_food" />
+
+    </RelativeLayout>
+
+
+</android.support.v7.widget.CardView>
